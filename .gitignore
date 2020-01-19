@@ -1,2 +1,7 @@
 _site/
 
+.directory
+
+.idea
+
+node_modules
