@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue Chen"
 title_separator          : "-"
 name                     : &name "Yue Chen"
-description              : &description "PhD Candidate at Indiana University"
+description              : &description "Ph.D. Candidate at Indiana University"
 url                      : https://chenyueg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyueg/chenyueg.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chenyueg/"
   orcid            : "https://orcid.org/0000-0003-4924-3743"
   pinterest        :
   soundcloud       :
