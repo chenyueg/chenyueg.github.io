@@ -25,4 +25,4 @@ I organize a weekly talk series called [Clingding](https://cl.indiana.edu/clingd
 CEW&T
 =====
 
- I am affiliated with IU's [Ceter of Excellence for Women & Technology](https://womenandtech.indiana.edu/index.html). 
+ I am affiliated with IU's [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/index.html). 
