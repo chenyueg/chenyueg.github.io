@@ -26,3 +26,5 @@ CEW&T
 =====
 
  I am affiliated with IU's [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/index.html). 
+
+ You can reach me via email: yc59 AT indiana DOT edu
