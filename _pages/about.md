@@ -28,3 +28,24 @@ Professional Organizations
 I am a member of the [Association for Computational Linguistics](https://www.aclweb.org).
 
 I am affiliated with IU's [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu). 
+
+Service
+=====
+
+## Journal Review
+
+- IEEE Transactions on Multimedia
+
+## Program Committee
+
+- ACL 2021, 2020
+- EMNLP 2020
+- NAACL 2021, 2019
+- ICLR 2021, 2020
+- IJCNLP 2021, 2020
+- AACL 2020
+- COLING 2020
+- RANLP 2019, 2017
+- RepL4NLP 2021, 2020
+- SocialNLP 2021
+- RANLP SRW 2019
