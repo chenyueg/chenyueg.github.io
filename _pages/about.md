@@ -42,7 +42,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 ## Program Committee
 
 - ACL 2021, 2020
-- EMNLP 2020
+- EMNLP 2021, 2020
 - NAACL 2021, 2019
 - ICLR 2021, 2020
 - IJCNLP 2021, 2020
@@ -56,3 +56,5 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 # Fun
 
 [IU Jacobs School of Music](https://music.indiana.edu/) offers [an amazing collection of world-class performances](https://events.iu.edu/musiciub/).
+
+According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com/)'s listeners in 2020.
