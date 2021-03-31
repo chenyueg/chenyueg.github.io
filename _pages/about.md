@@ -23,7 +23,7 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu/). I majo
 ## Professional Organizations
 
 - [Association for Computational Linguistics](https://www.aclweb.org)
-- [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu)
+- [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu) at IU
 
 ## Clingding
 
