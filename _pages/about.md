@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu/). I major in [Computational Linguistics](https://cl.indiana.edu/) and minor in [Computer Science](https://cs.indiana.edu/). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com/index.html) and [SUSE Linux](https://www.suse.com/). I also took an internship with [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
+I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). I major in [Computational Linguistics](https://cl.indiana.edu) and minor in [Computer Science](https://cs.indiana.edu). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also took an internship with [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
 
 ## Research Interests
 
@@ -31,6 +31,7 @@ I organize a weekly talk series called [Clingding](https://cl.indiana.edu/clingd
 
 ## News
 
+- 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra).
 - 04/02/2021: I am giving a talk at IU Linguistics' Research Round Robin. 
 
 ## Publications
@@ -65,5 +66,5 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 ##  Fun
 
-- [IU Jacobs School of Music](https://music.indiana.edu/) offers [an amazing collection of world-class performances](https://events.iu.edu/musiciub/).
-- According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com/)'s listeners in 2020.
+- [IU Jacobs School of Music](https://music.indiana.edu) offers [an amazing collection of world-class performances](https://events.iu.edu/musiciub/).
+- According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com)'s listeners in 2020.
