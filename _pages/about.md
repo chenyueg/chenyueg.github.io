@@ -31,8 +31,9 @@ I organize a weekly talk series called [Clingding](https://cl.indiana.edu/clingd
 
 ## News
 
-- 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra).
-- 04/02/2021: I am giving a talk at IU Linguistics' Research Round Robin. 
+- 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/)!
+- 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra)!
+- 04/02/2021: I am giving a talk at IU Linguistics' Research Round Robin!
 
 ## Publications
 
@@ -45,6 +46,10 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?user
 Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.html). 
 
 ## Service
+
+### Organizing Committee
+
+- Publicity chair for DeepCBR at IJCAI 2021
 
 ### Journal Review
 
