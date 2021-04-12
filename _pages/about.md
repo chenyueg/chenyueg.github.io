@@ -49,7 +49,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 ### Organizing Committee
 
-- Publicity chair for DeepCBR at IJCAI 2021
+- Publicity chair of DeepCBR at IJCAI 2021
 
 ### Journal Review
 
