@@ -20,6 +20,12 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 - Emotion recognition and sentiment analysis
 - NLU and Intent analysis for dialogue systems
 
+## News
+
+- 04/29/2021: I am in the inaugural set of reviewers for [ACL Rolling Review](https://aclrollingreview.org) and hope to help reshaping the (rather stressed) peer review process in our community.
+- 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra).
+- 04/02/2021: I am giving a talk at IU Linguistics' Research Round Robin. 
+
 ## Professional Organizations
 
 - [Association for Computational Linguistics](https://www.aclweb.org)
@@ -28,11 +34,6 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 ## Clingding
 
 I organize a weekly talk series called [Clingding](https://cl.indiana.edu/clingding.html). Per university policy, I am not allowed to post the Zoom link here, so if you are interested, please email me for more details.
-
-## News
-
-- 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra).
-- 04/02/2021: I am giving a talk at IU Linguistics' Research Round Robin. 
 
 ## Publications
 
@@ -52,6 +53,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 ### Program Committee
 
+- ACL Rolling Review 
 - ACL 2021, 2020
 - EMNLP 2021, 2020
 - NAACL 2021, 2019
