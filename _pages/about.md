@@ -23,7 +23,7 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 ## News
 
 - 04/29/2021: I am in the inaugural set of reviewers for [ACL Rolling Review](https://aclrollingreview.org) and hope to help reshaping the (rather stressed) peer review process in our community.
-- 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/)!
+- 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/) ((CFP)[http://vision.soic.indiana.edu/deepcbr-2021/CFP%20DL-CBR-AML%20workshop%20IJCAI%2021%20210420.pdf].
 - 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra).
 - 04/02/2021: I am giving a talk at IU Linguistics' Research Round Robin. 
 
