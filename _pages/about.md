@@ -22,6 +22,7 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 
 ## News
 
+- 06/04/2021: I have accepted a job offer from [Microsoft](https://www.microsoft.com/) and will start this August.
 - 04/29/2021: I am in the inaugural set of reviewers for [ACL Rolling Review](https://aclrollingreview.org) and hope to help reshape the (rather stressful) peer review process in our community.
 - 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/) ([CFP](http://vision.soic.indiana.edu/deepcbr-2021/CFP%20DL-CBR-AML%20workshop%20IJCAI%2021%20210420.pdf)).
 - 04/09/2021: I am helping [Sandra](https://cl.indiana.edu/~skuebler/) and [CEW&T](https://womenandtech.indiana.edu) with their [LaTeX workshop](https://events.iu.edu/cewit/event/183424-faculty-coffee-conversation-with-sandra).
@@ -34,7 +35,7 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 
 ## Clingding
 
-I organize a weekly talk series called [Clingding](https://cl.indiana.edu/clingding.html). Per university policy, I am not allowed to post the Zoom link here, so if you are interested, please email me for more details.
+I used to (not anymore) organize a weekly Computational Linguistics talk series called [Clingding](https://cl.indiana.edu/clingding.html). Per university policy, I am not allowed to post the Zoom link here, so if you are interested, please email me for more details.
 
 ## Publications
 
