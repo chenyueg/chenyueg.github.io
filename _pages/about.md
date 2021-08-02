@@ -18,7 +18,7 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 - Interpretability of NLP models and features
 - Hybrid (neural and symbolic) methods for NLP
 - Emotion recognition and sentiment analysis
-- NLU and Intent analysis for dialogue systems
+- NLU and intent analysis for dialogue systems
 
 ## News
 
@@ -76,4 +76,5 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 ##  Fun
 
 - [IU Jacobs School of Music](https://music.indiana.edu) offers [an amazing collection of world-class performances](https://events.iu.edu/musiciub/).
+- [Yo-Yo Ma and Kathryn Stott](https://www.iuauditorium.com/events/detail/yo-yo-ma-2022) are coming to IU. 
 - According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com)'s listeners in 2020.
