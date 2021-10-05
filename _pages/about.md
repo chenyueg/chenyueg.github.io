@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). I major in [Computational Linguistics](https://cl.indiana.edu) and minor in [Computer Science](https://cs.indiana.edu). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also took an internship with [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
+I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). I major in [Computational Linguistics](https://cl.indiana.edu) and minor in [Computer Science](https://cs.indiana.edu). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also took an internship with [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
 
 ## Research Interests
 
@@ -22,6 +22,7 @@ I am a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working
 
 ## News
 
+- 10/04/2021: I am a reviewer for [IULC Working Papers](https://scholarworks.iu.edu/journals/index.php/iulcwp).
 - 06/04/2021: I have accepted a job offer from [Microsoft](https://www.microsoft.com/) and will start this ~~August~~ October.
 - 04/29/2021: I am in the inaugural set of reviewers for [ACL Rolling Review](https://aclrollingreview.org) and hope to help reshape the (rather stressful) peer review process in our community.
 - 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/) ([CFP](http://vision.soic.indiana.edu/deepcbr-2021/CFP%20DL-CBR-AML%20workshop%20IJCAI%2021%20210420.pdf)).
@@ -56,6 +57,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 ### Journal Review
 
 - IEEE Transactions on Multimedia
+- IULC Working Papers
 
 ### Program Committee
 
