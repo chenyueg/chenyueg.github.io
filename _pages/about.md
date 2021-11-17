@@ -22,7 +22,8 @@ I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. 
 
 ## News
 
-- 10/04/2021: I am a reviewer for [IULC Working Papers](https://scholarworks.iu.edu/journals/index.php/iulcwp).
+- 11/17/2021： I am a reviewer for [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering).
+- 10/04/2021: I am a reviewer for the [IULC Working Papers](https://scholarworks.iu.edu/journals/index.php/iulcwp).
 - 06/04/2021: I have accepted a job offer from [Microsoft](https://www.microsoft.com/) and will start this ~~August~~ October.
 - 04/29/2021: I am in the inaugural set of reviewers for [ACL Rolling Review](https://aclrollingreview.org) and hope to help reshape the (rather stressful) peer review process in our community.
 - 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/) ([CFP](http://vision.soic.indiana.edu/deepcbr-2021/CFP%20DL-CBR-AML%20workshop%20IJCAI%2021%20210420.pdf)).
@@ -56,6 +57,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 ### Journal Review
 
+- Natural Language Engineering
 - IEEE Transactions on Multimedia
 - IULC Working Papers
 
