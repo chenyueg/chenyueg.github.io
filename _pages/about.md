@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). I major in [Computational Linguistics](https://cl.indiana.edu) and minor in [Computer Science](https://cs.indiana.edu). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also took an internship with [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
+I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. candidate at [Indiana University](https://www.indiana.edu), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). I major in [Computational Linguistics](https://cl.indiana.edu) with a minor in [Computer Science](https://cs.indiana.edu). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also did an internship at [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
 
 ## Research Interests
 
