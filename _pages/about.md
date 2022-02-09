@@ -52,17 +52,17 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 ## Service
 
-### Organizing Committee
+### Conference Organizing Committee
 
 - Publicity chair of DeepCBR at IJCAI 2021
 
-### Journal Review
+### Journal Reviewer
 
 - Natural Language Engineering
 - IEEE Transactions on Multimedia
 - IULC Working Papers
 
-### Program Committee / Reviewer
+### Conference Program Committee / Reviewer
 
 - ACL Rolling Review 
 - ACL 2021, 2020
@@ -75,7 +75,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - AACL 2020
 - COLING 2020
 - RANLP 2021, 2019, 2017
-- RepL4NLP 2021, 2020
+- RepL4NLP 2022, 2021, 2020
 - SocialNLP 2021
 - RANLP SRW 2019
 
