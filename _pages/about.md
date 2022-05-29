@@ -22,7 +22,8 @@ I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. 
 
 ## News
 
-- 05/16/2022: I am giving a talk at [University of Surrey](https://www.surrey.ac.uk/) about our empathy and emotion detection project.
+- 05/22/2022: I am virtually attending [ACL 2022](https://www.2022.aclweb.org/). Check out our program page here: [Microsoft at ACL 2022](https://www.microsoft.com/en-us/research/event/acl-2022/).
+- 05/16/2022: I am invited to give a talk at [University of Surrey](https://www.surrey.ac.uk/) about our empathy and emotion detection project.
 - 04/04/2022: Our paper about empathy detection and emotion classification is accepted at the [WASSA 2022 Shared Task](https://wassa-workshop.github.io/2022/shared_task/).
 - 02/10/2022: The [9th Annual Summit on Women & Technology](https://womenandtech.indiana.edu/summit/index.html) organized by [CEW&T](https://womenandtech.indiana.edu) is open for [registration](https://iu.co1.qualtrics.com/jfe/form/SV_6ofOBOc9gd17NeS).
 - 02/10/2022: I am doing a [CEW&T](https://womenandtech.indiana.edu) [Python crash course](https://events.iu.edu/cewit/event/410250-python-crash-course-text-processing-part-1) with my advisor [Sandra](https://cl.indiana.edu/~skuebler/).
@@ -31,7 +32,6 @@ I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. 
 - 10/04/2021: I am a reviewer for the [IULC Working Papers](https://scholarworks.iu.edu/journals/index.php/iulcwp).
 - 06/04/2021: I have accepted a job offer from [Microsoft](https://www.microsoft.com/) and will start this ~~August~~ October.
 - 04/29/2021: I am in the inaugural set of reviewers for [ACL Rolling Review](https://aclrollingreview.org) and hope to help reshape the (rather stressful) peer review process in our community.
-- 04/09/2021: I am the publicity chair of [DeepCBR at IJCAI 2021](http://vision.soic.indiana.edu/deepcbr-2021/) ([CFP](http://vision.soic.indiana.edu/deepcbr-2021/CFP%20DL-CBR-AML%20workshop%20IJCAI%2021%20210420.pdf)).
 
 ## Professional Organizations
 
