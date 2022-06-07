@@ -22,6 +22,7 @@ I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. 
 
 ## News
 
+- 06/07/2022: I am attending [NAACL 2022](https://2022.naacl.org/) in person. 
 - 05/22/2022: I am virtually attending [ACL 2022](https://www.2022.aclweb.org/). Check out our program page here: [Microsoft at ACL 2022](https://www.microsoft.com/en-us/research/event/acl-2022/).
 - 05/16/2022: I am invited to give a talk at [University of Surrey](https://www.surrey.ac.uk/) about our empathy and emotion detection project.
 - 04/04/2022: Our paper about empathy detection and emotion classification is accepted at the [WASSA 2022 Shared Task](https://wassa-workshop.github.io/2022/shared_task/).
