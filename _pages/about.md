@@ -22,6 +22,7 @@ I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. 
 
 ## News
 
+- 06/15/2022: I am reviewing for [EMNLP 2022](https://2022.emnlp.org/).
 - 06/13/2022: Our paper about multilingual multimodal telicity is accepted at [INLG 2022](https://inlgmeeting.github.io/).
 - 06/12/2022: I am reviewing for [AACL-IJCNLP 2022](https://www.aacl2022.org/).
 - 06/07/2022: I am attending [NAACL 2022](https://2022.naacl.org/) in person. 
@@ -31,7 +32,6 @@ I am a software engineer at [Microsoft](https://www.microsoft.com/) and a Ph.D. 
 - 02/10/2022: I am doing a [CEW&T](https://womenandtech.indiana.edu) [Python crash course](https://events.iu.edu/cewit/event/410250-python-crash-course-text-processing-part-1) with my advisor [Sandra](https://cl.indiana.edu/~skuebler/).
 - 01/06/2022: I am reviewing for the [International Conference on Machine Learning 2022](https://icml.cc/).
 - 11/17/2021: I am reviewing for [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering).
-- 10/04/2021: I am reviewing for the [IULC Working Papers](https://scholarworks.iu.edu/journals/index.php/iulcwp).
 
 ## Professional Organizations
 
@@ -72,7 +72,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 - ACL Rolling Review 
 - ACL 2021, 2020
-- EMNLP 2021, 2020
+- EMNLP 2022, 2021, 2020
 - NAACL 2021, 2019
 - NeurIPS 2022, 2021
 - ICLR 2022, 2021, 2020
