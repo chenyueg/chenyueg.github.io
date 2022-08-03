@@ -31,7 +31,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 04/04/2022: Our paper about empathy detection and emotion classification is accepted at the [WASSA 2022 Shared Task](https://wassa-workshop.github.io/2022/shared_task/).
 - 02/10/2022: The [9th Annual Summit on Women & Technology](https://womenandtech.indiana.edu/summit/index.html) organized by [CEW&T](https://womenandtech.indiana.edu) is open for [registration](https://iu.co1.qualtrics.com/jfe/form/SV_6ofOBOc9gd17NeS).
 - 02/10/2022: I am doing a [CEW&T](https://womenandtech.indiana.edu) [Python crash course](https://events.iu.edu/cewit/event/410250-python-crash-course-text-processing-part-1) with my advisor [Sandra](https://cl.indiana.edu/~skuebler/).
-- 01/06/2022: I am reviewing for the [ICML 2022](https://icml.cc/).
+- 01/06/2022: I am reviewing for [ICML 2022](https://icml.cc/).
 
 ## Professional Organizations
 
