@@ -22,6 +22,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 09/01/2022: I have joined the [CEW&T](https://womenandtech.indiana.edu/) [Mentorship Program](https://womenandtech.indiana.edu/programs/ementor-program.html) at IU.  
 - 08/03/2022: I am reviewing for [ICLR 2023](https://iclr.cc/).
 - 06/15/2022: I am reviewing for [EMNLP 2022](https://2022.emnlp.org/).
 - 06/13/2022: Our paper about multilingual multimodal telicity is accepted at [INLG 2022](https://inlgmeeting.github.io/).
@@ -31,12 +32,11 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 04/04/2022: Our paper about empathy detection and emotion classification is accepted at the [WASSA 2022 Shared Task](https://wassa-workshop.github.io/2022/shared_task/).
 - 02/10/2022: The [9th Annual Summit on Women & Technology](https://womenandtech.indiana.edu/summit/index.html) organized by [CEW&T](https://womenandtech.indiana.edu) is open for [registration](https://iu.co1.qualtrics.com/jfe/form/SV_6ofOBOc9gd17NeS).
 - 02/10/2022: I am doing a [CEW&T](https://womenandtech.indiana.edu) [Python crash course](https://events.iu.edu/cewit/event/410250-python-crash-course-text-processing-part-1) with my advisor [Sandra](https://cl.indiana.edu/~skuebler/).
-- 01/06/2022: I am reviewing for [ICML 2022](https://icml.cc/).
 
 ## Professional Organizations
 
 - [Association for Computational Linguistics](https://www.aclweb.org)
-- [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu) at IU
+- [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/) at IU
 
 ## Clingding
 
