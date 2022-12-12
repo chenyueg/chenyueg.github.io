@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 02/10/2022: I am doing a [CEW&T](https://womenandtech.indiana.edu) [Python crash course](https://events.iu.edu/cewit/event/410250-python-crash-course-text-processing-part-1) with my advisor [Sandra](https://cl.indiana.edu/~skuebler/).
 - 01/06/2022: I am reviewing for [ICML 2022](https://icml.cc/).
 - 11/17/2021: I am reviewing for [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering).
 - 10/04/2021: I am reviewing for the [IULC Working Papers](https://scholarworks.iu.edu/journals/index.php/iulcwp).

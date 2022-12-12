@@ -22,6 +22,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 12/12/2022: I am reviewing for [ACL 2023](https://2023.aclweb.org/).
 - 09/01/2022: I have joined the [CEW&T](https://womenandtech.indiana.edu/) [Mentorship Program](https://womenandtech.indiana.edu/programs/ementor-program.html) at IU.  
 - 08/03/2022: I am reviewing for [ICLR 2023](https://iclr.cc/).
 - 06/15/2022: I am reviewing for [EMNLP 2022](https://2022.emnlp.org/).
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 05/22/2022: I am virtually attending [ACL 2022](https://www.2022.aclweb.org/). Check out our program page here: [Microsoft at ACL 2022](https://www.microsoft.com/en-us/research/event/acl-2022/).
 - 04/04/2022: Our paper about empathy detection and emotion classification is accepted at the [WASSA 2022 Shared Task](https://wassa-workshop.github.io/2022/shared_task/).
 - 02/10/2022: The [9th Annual Summit on Women & Technology](https://womenandtech.indiana.edu/summit/index.html) organized by [CEW&T](https://womenandtech.indiana.edu) is open for [registration](https://iu.co1.qualtrics.com/jfe/form/SV_6ofOBOc9gd17NeS).
-- 02/10/2022: I am doing a [CEW&T](https://womenandtech.indiana.edu) [Python crash course](https://events.iu.edu/cewit/event/410250-python-crash-course-text-processing-part-1) with my advisor [Sandra](https://cl.indiana.edu/~skuebler/).
 
 ## Professional Organizations
 
