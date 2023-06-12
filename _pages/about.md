@@ -22,6 +22,9 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/).
+- 05/15/2023: I am reviewing for [RANLP 2023](https://ranlp.org/ranlp2023/).
+- 05/11/2023: I am reviewing for [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/).
 - 04/03/2023: I am reviewing for [Repl4NLP 2023](https://sites.google.com/view/repl4nlp2023/).
 - 03/28/2023: I am reviewing for [NeurIPS 2023](https://neurips.cc/).
 - 12/12/2022: I am reviewing for [ACL 2023](https://2023.aclweb.org/).
@@ -29,9 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 08/03/2022: I am reviewing for [ICLR 2023](https://iclr.cc/).
 - 06/15/2022: I am reviewing for [EMNLP 2022](https://2022.emnlp.org/).
 - 06/13/2022: Our paper about multilingual multimodal telicity is accepted at [INLG 2022](https://inlgmeeting.github.io/).
-- 06/12/2022: I am reviewing for [AACL-IJCNLP 2022](https://www.aacl2022.org/).
-- 06/07/2022: I am attending [NAACL 2022](https://2022.naacl.org/) in person. 
-- 05/22/2022: I am virtually attending [ACL 2022](https://www.2022.aclweb.org/). Check out our program page here: [Microsoft at ACL 2022](https://www.microsoft.com/en-us/research/event/acl-2022/).
 
 ## Professional Organizations
 
@@ -72,15 +72,15 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 - ACL Rolling Review 
 - ACL 2023, 2021, 2020
-- EMNLP 2022, 2021, 2020
+- EMNLP 2023, 2022, 2021, 2020
 - NAACL 2021, 2019
 - NeurIPS 2023, 2022, 2021
 - ICLR 2023, 2022, 2021, 2020
 - ICML 2022
-- IJCNLP 2022, 2021, 2020
-- AACL 2022, 2020
+- IJCNLP 2023, 2022, 2021, 2020
+- AACL 2023, 2022, 2020
 - COLING 2020
-- RANLP 2021, 2019, 2017
+- RANLP 2023, 2021, 2019, 2017
 - RepL4NLP 2023， 2022, 2021, 2020
 - SocialNLP 2021
 - RANLP SRW 2019
