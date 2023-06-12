@@ -83,8 +83,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - AACL 2023, 2022, 2020
 - COLING 2020
 - RANLP 2023, 2021, 2019, 2017
-- RANLP 2023, 2021, 2019, 2017
-- RepL4NLP 2023， 2022, 2021, 2020
+- RepL4NLP 2023，2022, 2021, 2020
 - SocialNLP 2021
 - RANLP SRW 2019
 
