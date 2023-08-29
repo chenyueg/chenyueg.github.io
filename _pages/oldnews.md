@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 06/13/2022: Our paper about multilingual multimodal telicity is accepted at [INLG 2022](https://inlgmeeting.github.io/).
 - 06/12/2022: I am reviewing for [AACL-IJCNLP 2022](https://www.aacl2022.org/). 
 - 06/07/2022: I am attending [NAACL 2022](https://2022.naacl.org/) in person.
 - 05/22/2022: I am virtually attending [ACL 2022](https://www.2022.aclweb.org/). Check out our program page here: [Microsoft at ACL 2022](https://www.microsoft.com/en-us/research/event/acl-2022/).
