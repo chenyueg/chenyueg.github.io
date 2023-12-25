@@ -22,6 +22,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 12/24/2023: I am reviewing for [ICML 2024](https://icml.cc/Conferences/2024).
 - 08/29/2023: I am reviewing for [ICLR 2024](https://iclr.cc/).
 - 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/) and its industry track.
 - 05/15/2023: I am reviewing for [RANLP 2023](https://ranlp.org/ranlp2023/).
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 12/12/2022: I am reviewing for [ACL 2023](https://2023.aclweb.org/).
 - 09/01/2022: I have joined the [CEW&T](https://womenandtech.indiana.edu/) [Mentorship Program](https://womenandtech.indiana.edu/programs/ementor-program.html) at IU.  
 - 08/03/2022: I am reviewing for [ICLR 2023](https://iclr.cc/).
-- 06/15/2022: I am reviewing for [EMNLP 2022](https://2022.emnlp.org/).
 
 ## Professional Organizations
 
