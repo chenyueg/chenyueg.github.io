@@ -64,7 +64,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 
 ### Journal Reviewer
 
-- Natural Language Engineering
+- Natural Language Processing
 - IEEE Transactions on Multimedia
 - IULC Working Papers
 
