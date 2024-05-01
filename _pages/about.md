@@ -22,7 +22,8 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
-- 02/06/2023: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
+- 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
+- 02/06/2024: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
 - 12/24/2023: I am reviewing for [ICML 2024](https://icml.cc/Conferences/2024).
 - 08/29/2023: I am reviewing for [ICLR 2024](https://iclr.cc/).
 - 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/) and its industry track.
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 04/03/2023: I am reviewing for [Repl4NLP 2023](https://sites.google.com/view/repl4nlp2023/).
 - 03/28/2023: I am reviewing for [NeurIPS 2023](https://neurips.cc/).
 - 12/12/2022: I am reviewing for [ACL 2023](https://2023.aclweb.org/).
-- 09/01/2022: I have joined the [CEW&T](https://womenandtech.indiana.edu/) [Mentorship Program](https://womenandtech.indiana.edu/programs/ementor-program.html) at IU.  
 
 ## Professional Organizations
 
@@ -84,7 +84,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - COLING 2020
 - RANLP 2023, 2021, 2019, 2017
 - COLM 2024
-- RepL4NLP 2023，2022, 2021, 2020
+- RepL4NLP 2024, 2023，2022, 2021, 2020
 - SocialNLP 2021
 - RANLP SRW 2019
 

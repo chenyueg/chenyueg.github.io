@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 09/01/2022: I have joined the [CEW&T](https://womenandtech.indiana.edu/) [Mentorship Program](https://womenandtech.indiana.edu/programs/ementor-program.html) at IU.  
 - 08/03/2022: I am reviewing for [ICLR 2023](https://iclr.cc/).
 - 06/15/2022: I am reviewing for [EMNLP 2022](https://2022.emnlp.org/).
 - 06/13/2022: Our paper about multilingual multimodal telicity is accepted at [INLG 2022](https://inlgmeeting.github.io/).
