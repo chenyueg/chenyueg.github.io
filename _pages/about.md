@@ -21,7 +21,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - NLU and intent analysis for dialogue systems
 
 ## News
-- I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promote the research of underrepresented groups in Natural Language Processing.
+- I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
 - 05/07/2024: I am reviewing for [NeurIPS 2024](https://neurips.cc/).
 - 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
 - 02/06/2024: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
