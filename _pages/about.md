@@ -21,6 +21,8 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - NLU and intent analysis for dialogue systems
 
 ## News
+
+- I am joining the program committee for [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
 - I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
 - 05/07/2024: I am reviewing for [NeurIPS 2024](https://neurips.cc/).
 - 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
@@ -30,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/) and its industry track.
 - 05/15/2023: I am reviewing for [RANLP 2023](https://ranlp.org/ranlp2023/).
 - 05/11/2023: I am reviewing for [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/).
-- 04/03/2023: I am reviewing for [Repl4NLP 2023](https://sites.google.com/view/repl4nlp2023/).
 
 ## Professional Organizations
 
@@ -76,6 +77,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - NeurIPS 2024, 2023, 2022, 2021
 - ICLR 2024, 2023, 2022, 2021, 2020
 - ICML 2024, 2022
+- AAAI 2025
 - IJCNLP 2023, 2022, 2021, 2020
 - AACL 2023, 2022, 2020
 - IJCNLP 2023, 2022, 2021, 2020
