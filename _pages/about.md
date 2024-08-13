@@ -22,8 +22,9 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
-- I am joining the program committee for [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
-- I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
+- 08/13/2024: I am reviewing for [ICLR 2025](https://iclr.cc/).
+- 08/04/2024: I am joining the program committee for [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
+- 05/29/2024: I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
 - 05/07/2024: I am reviewing for [NeurIPS 2024](https://neurips.cc/).
 - 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
 - 02/06/2024: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 08/29/2023: I am reviewing for [ICLR 2024](https://iclr.cc/).
 - 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/) and its industry track.
 - 05/15/2023: I am reviewing for [RANLP 2023](https://ranlp.org/ranlp2023/).
-- 05/11/2023: I am reviewing for [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/).
 
 ## Professional Organizations
 
@@ -75,7 +75,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - EMNLP 2023, 2022, 2021, 2020
 - NAACL 2021, 2019
 - NeurIPS 2024, 2023, 2022, 2021
-- ICLR 2024, 2023, 2022, 2021, 2020
+- ICLR 2025, 2024, 2023, 2022, 2021, 2020
 - ICML 2024, 2022
 - AAAI 2025
 - IJCNLP 2023, 2022, 2021, 2020
