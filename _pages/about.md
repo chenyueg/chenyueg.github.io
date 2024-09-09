@@ -82,7 +82,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - AACL 2023, 2022, 2020
 - IJCNLP 2023, 2022, 2021, 2020
 - AACL 2023, 2022, 2020
-- COLING 2020
+- COLING 2025, 2020
 - RANLP 2023, 2021, 2019, 2017
 - COLM 2024
 - RepL4NLP 2024, 2023，2022, 2021, 2020
