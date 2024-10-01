@@ -22,6 +22,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
 - 09/09/2024: I am joining the program committee of [COLING 2025](https://coling2025.org/).
 - 08/13/2024: I am reviewing for [ICLR 2025](https://iclr.cc/).
 - 08/04/2024: I am joining the program committee of [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 02/06/2024: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
 - 12/24/2023: I am reviewing for [ICML 2024](https://icml.cc/Conferences/2024).
 - 08/29/2023: I am reviewing for [ICLR 2024](https://iclr.cc/).
-- 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/) and its industry track.
 
 ## Professional Organizations
 
@@ -78,9 +78,9 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - ICLR 2025, 2024, 2023, 2022, 2021, 2020
 - ICML 2024, 2022
 - AAAI 2025
+- AISTATS 2025
 - IJCNLP 2023, 2022, 2021, 2020
 - AACL 2023, 2022, 2020
-- IJCNLP 2023, 2022, 2021, 2020
 - AACL 2023, 2022, 2020
 - COLING 2025, 2020
 - RANLP 2023, 2021, 2019, 2017
