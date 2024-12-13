@@ -32,8 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
 - 02/06/2024: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
 - 12/24/2023: I am reviewing for [ICML 2024](https://icml.cc/Conferences/2024).
-- 08/29/2023: I am reviewing for [ICLR 2024](https://iclr.cc/).
-- 06/12/2023: I am reviewing for [EMNLP 2023](https://2023.emnlp.org/) and its industry track.
 
 ## Professional Organizations
 
