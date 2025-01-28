@@ -22,6 +22,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 01/27/2025: I am reviewing for [COLM 2025](https://colmweb.org/).
 - 01/21/2025: I am reviewing for [RepL4NLP 2025](https://sites.google.com/view/repl4nlp2025).
 - 12/13/2024: I am reviewing for [ICML 2025](https://icml.cc/).
 - 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 05/29/2024: I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
 - 05/07/2024: I am reviewing for [NeurIPS 2024](https://neurips.cc/).
 - 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
-- 02/06/2024: I am reviewing for [The First Conference on Language Modeling](https://colmweb.org/).
 
 ## Professional Organizations
 
@@ -84,14 +84,14 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - AACL 2023, 2022, 2020
 - COLING 2025, 2020
 - RANLP 2023, 2021, 2019, 2017
-- COLM 2024
+- COLM 2025, 2024
 - RepL4NLP 2025, 2024, 2023，2022, 2021, 2020
 - WiNLP 2024
 - SocialNLP 2021
 - RANLP SRW 2019
 
-##  Fun
+## Fun
 
 - [IU Jacobs School of Music](https://music.indiana.edu) offers [an amazing collection of world-class performances](https://events.iu.edu/musiciub/).
 - [Yo-Yo Ma and Kathryn Stott](https://www.iuauditorium.com/events/detail/yo-yo-ma-2022) are coming to IU. 
-- According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com)'s listeners in 2020 and ***2021***.
+- According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com)'s listeners ***every year***.
