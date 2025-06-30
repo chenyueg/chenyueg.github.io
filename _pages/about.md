@@ -22,7 +22,8 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
-- 05/29/2024: I am reviewing for [WiNLP 2025](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
+- 06/30/2025: I have joined the [WiNLP](https://www.winlp.org/) pre-submission mentorship program, where I will be supporting authors, particularly early-career researchers from underrepresented groups.
+- 05/29/2025: I am reviewing for [WiNLP 2025](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
 - 03/31/2025: I am joining the program committee of [RANLP 2025](http://ranlp.org/ranlp2025/).
 - 02/18/2025: I am reviewing for [NeurIPS 2025](https://neurips.cc/).
 - 01/27/2025: I am reviewing for [COLM 2025](https://colmweb.org/).
@@ -31,8 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
 - 09/09/2024: I am joining the program committee of [COLING 2025](https://coling2025.org/).
 - 08/13/2024: I am reviewing for [ICLR 2025](https://iclr.cc/).
-- 08/04/2024: I am joining the program committee of [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
-- 05/29/2024: I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
 
 ## Professional Organizations
 

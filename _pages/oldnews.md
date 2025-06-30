@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 08/04/2024: I am joining the program committee of [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
 - 05/29/2024: I am reviewing for [WiNLP 2024](https://www.winlp.org/).
 - 05/07/2024: I am reviewing for [NeurIPS 2024](https://neurips.cc/).
 - 05/01/2024: I am reviewing for [RepL4NLP 2024](https://sites.google.com/view/repl4nlp2024).
