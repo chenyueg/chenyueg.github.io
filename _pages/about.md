@@ -22,6 +22,9 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 06/30/2025: I have joined the [WiNLP](https://www.winlp.org/) pre-submission mentorship program, where I will be supporting authors, particularly early-career researchers from underrepresented groups.
+- 05/29/2025: I am reviewing for [WiNLP 2025](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
+- 03/31/2025: I am joining the program committee of [RANLP 2025](http://ranlp.org/ranlp2025/).
 - 02/18/2025: I am reviewing for [NeurIPS 2025](https://neurips.cc/).
 - 01/27/2025: I am reviewing for [COLM 2025](https://colmweb.org/).
 - 01/21/2025: I am reviewing for [RepL4NLP 2025](https://sites.google.com/view/repl4nlp2025).
@@ -29,9 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
 - 09/09/2024: I am joining the program committee of [COLING 2025](https://coling2025.org/).
 - 08/13/2024: I am reviewing for [ICLR 2025](https://iclr.cc/).
-- 08/04/2024: I am joining the program committee of [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
-- 05/29/2024: I am reviewing for [WiNLP 2024](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
-- 05/07/2024: I am reviewing for [NeurIPS 2024](https://neurips.cc/).
 
 ## Professional Organizations
 
@@ -82,10 +82,10 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - IJCNLP 2023, 2022, 2021, 2020
 - AACL 2023, 2022, 2020
 - COLING 2025, 2020
-- RANLP 2023, 2021, 2019, 2017
+- RANLP 2025, 2023, 2021, 2019, 2017
 - COLM 2025, 2024
 - RepL4NLP 2025, 2024, 2023，2022, 2021, 2020
-- WiNLP 2024
+- WiNLP 2025, 2024
 - SocialNLP 2021
 - RANLP SRW 2019
 
