@@ -22,6 +22,7 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 09/08/2025: I am reviewing for [AISTATS 2026](https://aistats.org/).
 - 07/14/2025: I am joining the program committee of [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 06/30/2025: I have joined the [WiNLP](https://www.winlp.org/) pre-submission mentorship program, where I will be supporting authors, particularly early-career researchers from underrepresented groups.
 - 05/29/2025: I am reviewing for [WiNLP 2025](https://www.winlp.org/), and I take pride in promoting the research of underrepresented groups in Natural Language Processing.
@@ -31,7 +32,6 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 01/21/2025: I am reviewing for [RepL4NLP 2025](https://sites.google.com/view/repl4nlp2025).
 - 12/13/2024: I am reviewing for [ICML 2025](https://icml.cc/).
 - 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
-- 09/09/2024: I am joining the program committee of [COLING 2025](https://coling2025.org/).
 
 ## Professional Organizations
 
@@ -78,7 +78,7 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - ICLR 2025, 2024, 2023, 2022, 2021, 2020
 - ICML 2025, 2024, 2022
 - AAAI 2026, 2025
-- AISTATS 2025
+- AISTATS 2026, 2025
 - IJCNLP 2023, 2022, 2021, 2020
 - AACL 2023, 2022, 2020
 - COLING 2025, 2020

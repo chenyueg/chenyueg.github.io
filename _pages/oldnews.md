@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 09/09/2024: I am joining the program committee of [COLING 2025](https://coling2025.org/).
 - 08/13/2024: I am reviewing for [ICLR 2025](https://iclr.cc/).
 - 08/04/2024: I am joining the program committee of [AAAI 2025](https://aaai.org/Conferences/AAAI-25/).
 - 05/29/2024: I am reviewing for [WiNLP 2024](https://www.winlp.org/).
