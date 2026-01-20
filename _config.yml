@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue Chen"
+title                    : "Yue Chen, Ph.D."
 title_separator          : "-"
-name                     : &name "Yue Chen"
-description              : &description "Software Engineer at Microsoft / Ph.D. Candidate at Indiana University"
+name                     : &name "Yue Chen, Ph.D."
+description              : &description "Software Engineer at Microsoft / Ph.D. in Computational Linguistics at Indiana University"
 url                      : https://chenyueg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyueg/chenyueg.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue Chen"
+  name             : "Yue Chen, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Software Engineer at Microsoft PhD Candidate at Indiana University"
+  bio              : "Software Engineer at Microsoft / Ph.D. in Computational Linguistics at Indiana University"
   location         : "Redmond, WA"
   employer         :
   pubmed           :

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yue Chen"
+title: "Yue Chen, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research/people/chenyue/) and a [Ph.D. candidate at Indiana University](https://linguistics.indiana.edu/about/graduate-students/index.html), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). I major in [Computational Linguistics](https://cl.indiana.edu) with a minor in [Computer Science](https://cs.indiana.edu). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also did an internship at [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
+I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research/people/chenyue/) and have a [Ph.D.  in Computational Linguistics at Indiana University](https://linguistics.indiana.edu/graduate/phd-degrees.html), working with [Dr. Sandra Kübler](https://cl.indiana.edu/~skuebler/). Before coming back to graduate school for my Ph.D. degree, I worked as a software engineer for [Oracle](https://www.oracle.com) and [SUSE Linux](https://www.suse.com). I also did an internship at [Interactions LLC](https://www.interactions.com/ai-technology/) and worked on dialogue systems. ([Résumé](https://chenyueg.github.io/files/yue_chen_resume_public.pdf))
 
 ## Research Interests
 
@@ -22,6 +22,8 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 
 ## News
 
+- 01/13/2026: I am reviewing for [COLM 2026](https://colmweb.org/).
+- 01/08/2026: I am reviewing for [LoResLM 2026](https://loreslm.github.io/).
 - 09/08/2025: I am reviewing for [AISTATS 2026](https://aistats.org/).
 - 07/14/2025: I am joining the program committee of [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 06/30/2025: I have joined the [WiNLP](https://www.winlp.org/) pre-submission mentorship program, where I will be supporting authors, particularly early-career researchers from underrepresented groups.
@@ -30,11 +32,10 @@ I am a [software engineer at Microsoft](https://www.microsoft.com/en-us/research
 - 02/18/2025: I am reviewing for [NeurIPS 2025](https://neurips.cc/).
 - 01/27/2025: I am reviewing for [COLM 2025](https://colmweb.org/).
 - 01/21/2025: I am reviewing for [RepL4NLP 2025](https://sites.google.com/view/repl4nlp2025).
-- 12/13/2024: I am reviewing for [ICML 2025](https://icml.cc/).
-- 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
 
 ## Professional Organizations
 
+- [American Psychological Association](https://www.apa.org)
 - [Association for Computational Linguistics](https://www.aclweb.org)
 - [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/) at IU
 
@@ -83,9 +84,10 @@ Some of the preprints are available on [arXiv](https://arxiv.org/a/chen_y_11.htm
 - AACL 2023, 2022, 2020
 - COLING 2025, 2020
 - RANLP 2025, 2023, 2021, 2019, 2017
-- COLM 2025, 2024
+- COLM 2026, 2025, 2024
 - RepL4NLP 2025, 2024, 2023，2022, 2021, 2020
 - WiNLP 2025, 2024
+- LoResLM 2026
 - SocialNLP 2021
 - RANLP SRW 2019
 
