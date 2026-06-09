@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 01/27/2025: I am reviewing for [COLM 2025](https://colmweb.org/).
 - 01/21/2025: I am reviewing for [RepL4NLP 2025](https://sites.google.com/view/repl4nlp2025).
 - 12/13/2024: I am reviewing for [ICML 2025](https://icml.cc/).
 - 09/30/2024: I am joining the program committee of [AISTATS 2025](https://aistats.org/).
