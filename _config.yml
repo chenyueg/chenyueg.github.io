@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue Chen, Ph.D."
 title_separator          : "-"
 name                     : &name "Yue Chen, Ph.D."
-description              : &description "Software Engineer at Microsoft / Ph.D. in Computational Linguistics at Indiana University"
+description              : &description "Applied ML Researcher | Representation Learning, Generalization & Evaluation"
 url                      : https://chenyueg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyueg/chenyueg.github.io"
@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yue Chen, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Software Engineer at Microsoft Ph.D. in Computational Linguistics at Indiana University"
+  bio              : "Applied ML Researcher | Ph.D. in Computational Linguistics | Representation Learning, Generalization & Evaluation"
   location         : "Redmond, WA"
   employer         :
   pubmed           :
@@ -91,9 +91,9 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
+  codepen           :
+  dribbble          :
+  flickr            :
   facebook         :
   foursquare       :
   github           : "chenyueg"
@@ -277,14 +277,14 @@ whitelist:
 
 # Archives
 #  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+# - Jekyll Archives plugin archive pages built with Liquid ~> type: liquid (default)
+# - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+# Path (examples)
+# - Archive page should exist at path when using Liquid method or you can
+# expect broken links (especially with breadcrumbs enabled)
+# - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+# - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+# - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -294,11 +294,8 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
-#     - categories
-#     - tags
+#     - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
