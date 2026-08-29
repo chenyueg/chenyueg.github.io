@@ -95,3 +95,13 @@ One representative project is our [WASSA 2022 work on empathy detection and emot
 - [Association for Computational Linguistics](https://www.aclweb.org)
 - [American Psychological Association](https://www.apa.org)
 - [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/) at Indiana University
+
+## ClingDing
+
+I used to (not anymore) organize a weekly Computational Linguistics talk series called [ClingDing](https://cl.indiana.edu/clingding.html). Per university policy, I am not allowed to post the Zoom link here, so if you are interested, please email me for more details.
+
+## Fun
+
+- [IU Jacobs School of Music](https://music.indiana.edu) offers [an amazing collection of world-class performances](https://events.iu.edu/musiciub/).
+- [Yo-Yo Ma and Kathryn Stott](https://www.iuauditorium.com/events/detail/yo-yo-ma-2022) are coming to IU.
+- According to Spotify, I was in the top 0.05% of [Yo-Yo Ma](https://www.yo-yoma.com)'s listeners ***every year***.
