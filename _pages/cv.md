@@ -7,53 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Current Profile
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+This page previously contained placeholder content from the site template. For my current research profile, selected work, and professional background, please see the [homepage](/).
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+For publications and research output, see my [Google Scholar profile](https://scholar.google.com/citations?user=_s9di4AAAAAJ&hl=en), [Semantic Scholar profile](https://www.semanticscholar.org/author/Yue-Chen/1990636), [Microsoft Research profile](https://www.microsoft.com/en-us/research/people/chenyue/), and [arXiv profile](https://arxiv.org/a/chen_y_11.html).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can also find my professional profile on [LinkedIn](https://www.linkedin.com/in/chenyueg/).
