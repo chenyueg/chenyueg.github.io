@@ -41,12 +41,15 @@ At Microsoft, I have worked on ML and data systems for forecasting, anomaly dete
 
 ## Publications
 
+**Feature Analysis for Neural Speech Emotion Recognition** has been accepted for publication in *Natural Language Processing* (Cambridge University Press).
+
 Please see my [Google Scholar profile](https://scholar.google.com/citations?user=_s9di4AAAAAJ&hl=en), [Semantic Scholar profile](https://www.semanticscholar.org/author/Yue-Chen/1990636), [Microsoft Research profile](https://www.microsoft.com/en-us/research/people/chenyue/), and [arXiv profile](https://arxiv.org/a/chen_y_11.html).
 
 One representative project is our [WASSA 2022 work on empathy detection and emotion classification](https://aclanthology.org/2022.wassa-1.21/), where we investigated how demographic attributes affected model performance and evaluated the tradeoff between additional features and generalization.
 
 ## News
 
+- 11/16/2026: My paper "Feature Analysis for Neural Speech Emotion Recognition" has been accepted for publication in *Natural Language Processing*.
 - 05/27/2026: I am reviewing for [WiNLP 2026](https://www.winlp.org/).
 - 03/25/2026: I am reviewing for [NeurIPS 2026](https://neurips.cc/).
 - 01/13/2026: I am reviewing for [COLM 2026](https://colmweb.org/).
@@ -56,7 +59,6 @@ One representative project is our [WASSA 2022 work on empathy detection and emot
 - 07/10/2025: I am joining the program committee of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/).
 - 06/30/2025: I joined the [WiNLP](https://www.winlp.org/) pre-submission mentorship program, supporting authors and early-career researchers.
 - 05/29/2025: I am reviewing for [WiNLP 2025](https://www.winlp.org/).
-- 03/31/2025: I am joining the program committee of [RANLP 2025](http://ranlp.org/ranlp2025/).
 
 [Older news](/oldnews/)
 
